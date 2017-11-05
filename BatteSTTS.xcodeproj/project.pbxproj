@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AD7AC2DF1FAF73050038F615 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7AC2DE1FAF73050038F615 /* main.swift */; };
+		AD7AC2E61FAF73710038F615 /* Battery.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7AC2E51FAF73710038F615 /* Battery.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		AD7AC2DB1FAF73050038F615 /* BatteSTTS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BatteSTTS; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD7AC2DE1FAF73050038F615 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AD7AC2E51FAF73710038F615 /* Battery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Battery.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				AD7AC2DE1FAF73050038F615 /* main.swift */,
+				AD7AC2E51FAF73710038F615 /* Battery.swift */,
 			);
 			path = BatteSTTS;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD7AC2DF1FAF73050038F615 /* main.swift in Sources */,
+				AD7AC2E61FAF73710038F615 /* Battery.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
